@@ -2,7 +2,6 @@
 
 import httplib
 import xml.etree.ElementTree as ET
-import pprint
 import sys
 
 host = 'support.content.office.net'
