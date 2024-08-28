@@ -1,5 +1,9 @@
 # o365-iptables
 
+**Office 365 network IP Addresses and URLs are no longer available in XML format.**
+You should transition to accessing the data in JSON format as described at http://aka.ms/ipurlblog.  
+This was first announced on 2 April 2018 and the XML file was last updated on 22 September 2018. 
+
 Microsoft publishes its IP address listings for various services here:
 
 https://support.content.office.net/en-us/static/O365IPAddresses.xml
